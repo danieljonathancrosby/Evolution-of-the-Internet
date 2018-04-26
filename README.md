@@ -1,5 +1,5 @@
 # HTML_Hotness
-A fanpage for '90's bands. 
+A fanpage for '90's bands... with a twist.  
 
 **CONCEPT**
 
@@ -29,3 +29,7 @@ NO:
 
 MAYBE: 
 * Artists who were in bands in the 1990s but are now performing solo. Examples include Justin Timberlake and Beyonce.
+
+**NOTE**
+
+The original project (master branch) was a prompt from my coding bootcamp. However, this new branch is 100% my idea. I am still learning, and this looks like a really fun project to get started!

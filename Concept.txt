@@ -1,0 +1,39 @@
+~~~CONCEPT~~~
+This website will show the progression of web dev from the 1990s to today. The content will be a tribute/fan page for a 1990s band, and the user will be able to toggle between pure HTML (1990s) / CSS included (2000s) / JavaScript included (2010s). 
+
+~~~SITE AESTHETICS / DESIGN~~
+
+There are three different appearances: Pure HTML, CSS included, and JavaScript included. They all have the same exact content but are different in appearance. 
+
+When the user navigates to this webpage, a home page will greet the user and explain the project. There will be a menu that navigates to bands.
+
+The user can interact with a 3-slot sliding tab with 3 positions: pure HTML (1990s), CSS (2000s), JavaScript (2010s). 
+
+
+~~~ARTISTS THAT WILL BE INCLUDED~~~
+
+Criteria: The artists must have been active since the 1990s and they must still be operating today. This will help tie in with the theme that the Internet has evolved and changed since the 1990s -- so have these bands. 
+
+YES: 
+* Massive Attack 
+* Bjork 
+* Missy Elliott
+
+NO: 
+* Nirvana and other bands that no longer operate today
+* Sorry, no one-hit wonders. 
+
+MAYBE: 
+* Artists who were in bands in the 1990s but are now performing solo. Examples include Justin Timberlake and Beyonce.
+
+
+~~~SPIN-OFF PROJECTS~~~
+
+Once I get the basic aesthetics down, I can then focus on creating content. The beautiful thing about this site idea is that there is no shortage of music from the 1990s - 2010s, so I can find ways to create pages for the other artists AND practice my coding skills. Most notably -- 
+
+
+PYTHON:
+
+Find artists to create fan pages for. I know that Python can build web scrapers, but I don't know how to do that at this point! 
+
+Once I learn how to build web scrapers, I will direct the bo to Wikipedia's page on bands from the 1990s (https://en.wikipedia.org/wiki/1990s_in_music). Then I will follow the links and scrape the content so that I can then paste it in my website (with credit and attribution). 

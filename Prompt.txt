@@ -1,0 +1,23 @@
+Open VS Studio Code, create a new file, and then save it as fanpage.html. It's important to have the .html extension so that VS Code knows what type of file it is and knows how to read it.
+
+Before you start adding content, create the structure for your page. Reference the example in the module chapter. Be sure to include the !DOCTYPE declaration and the <html>, the <head>, and the <body> tags where appropriate.
+
+Add content to your page. Your page can be about whomever you want, but it must include the following requirements:
+
+Proper page structure:
+!DOCTYPE declaration
+<html>, <head>, and <body> tags
+A <title> for the page
+At least one image (with an alt attribute)
+A link to another website
+An ordered or an unordered list (band members, favorite songs, albums, etc.)
+A bio section with <p> tags for formatting
+Use of <h1> and <h2> tags for heading
+A video of the band or musician playing
+Proper indentation
+
+
+Bonus:
+Make your link(s) open in a new tab.
+Add a favicon to your site (the little icon that appears on the browser tab).
+Make a table.
